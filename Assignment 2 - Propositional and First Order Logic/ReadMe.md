@@ -49,3 +49,5 @@ In Question 1-4, the prefix logical evaluator works with a three-valued logic sy
 - **`a2_q5.py`**: Contains Script that takes pre-fix notation inputs and check Knowledge Base entailment.
 - **`a2_q6789.py`**: Prolog-related tasks (Questions 6 through 9).
 - **`logic.py`**: A utility file that includes shared logic functions for Python-based logic evaluation tasks.
+- **`Question Description screenshots`**: Contains screenshots of each question description.
+
